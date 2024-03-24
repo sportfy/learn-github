@@ -8,8 +8,45 @@
 🌟 Hit star button to save this repo in your profile
 
 <p align="left">
-<img src="/images/Github_poster1.jpeg"  height="400" />
+<img src="/images/Github_poster.jpeg"  height="400" />
 </p>
+
+# GitHub for Research Students: From Code to Collaboration
+## A. GitHub Sign-In
+Signing in to GitHub is straightforward. 
+
+1. Go to the [GitHub login page](https://github.com/login).
+2. Enter your **username** or **email address** associated with your GitHub account.
+3. Type in your **password**.
+4. Click **Sign in**.
+
+If you're new to GitHub and need to create an account, you can click on **Create an account** on the same page. Remember, if you're having trouble signing in, there's a **Forgot password?** link to help you reset your password.
+
+
+## B. Install GitHub Desktop
+GitHub Desktop is a free and open source application that lets you interact with GitHub repositories using a graphical user interface. You can use it to clone, create, commit, push, pull, and merge your code, as well as manage branches, issues, pull requests, and more.
+
+<p align="center">
+<img src="https://desktop.github.com/images/screenshot-macos-light.png"  height="300" />
+</p>
+
+To install GitHub Desktop, you need to have a supported operating system, which currently include macOS 10.13 or later and Windows 10 64-bit or later. Here are the steps for each platform:
+
+- **macOS**:
+    1. Visit the [download page](https://desktop.github.com/) for GitHub Desktop.
+    2. Click **Download for macOS**.
+    3. In your computer's Downloads folder, double-click the **GitHub Desktop.zip** file.
+    4. Unpack the application and put it wherever you want.
+    5. Launch GitHub Desktop and sign in with your GitHub account.
+
+- **Windows**:
+    1. Visit the [download page](https://desktop.github.com/) for GitHub Desktop.
+    2. Click **Download for Windows**.
+    3. In your computer's Downloads folder, double-click the **GitHubDesktopSetup.exe** file.
+    4. Allow the installation to download and install.
+    5. Launch GitHub Desktop and sign in with your GitHub account.
+
+
 
 # Learn Github 🚀
 
@@ -143,4 +180,3 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
